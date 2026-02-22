@@ -128,6 +128,9 @@ Spring Boot 実行
 
 ======================================
 
+👉 [プロジェクト説明ページへ](https://eugene6oz.github.io/anime-platform)
+
+
 📷 スクリーンショット
 
 ※ /docs フォルダに追加予定
